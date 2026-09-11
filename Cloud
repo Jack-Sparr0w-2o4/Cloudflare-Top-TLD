@@ -503,6 +503,7 @@ ooo
 rest
 cam
 tk
+info
 no-ip.biz
 no-ip.org
 ddns.net
@@ -588,3 +589,9 @@ a.nic.cam
 b.nic.cam
 c.nic.cam
 d.nic.cam
+a0.info.afilias-nst.info
+a2.info.afilias-nst.info
+b0.info.afilias-nst.org
+b2.info.afilias-nst.org
+c0.info.afilias-nst.info
+d0.info.afilias-nst.org
