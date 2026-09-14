@@ -511,6 +511,10 @@ lt
 eus
 Non
 homes
+living
+property
+forum
+audio
 no-ip.biz
 no-ip.org
 ddns.net
@@ -606,3 +610,11 @@ a.nic.homes
 b.nic.homes
 c.nic.homes
 d.nic.homes
+ns01.trs-dns.com
+ns01.trs-dns.net
+ns10.trs-dns.info
+ns10.trs-dns.org
+a.nic.audio
+b.nic.audio
+c.nic.audio
+d.nic.audio
