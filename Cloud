@@ -516,6 +516,9 @@ property
 forum
 audio
 cam
+fun
+website
+lat
 no-ip.biz
 no-ip.org
 ddns.net
@@ -623,3 +626,7 @@ a.nic.cam
 b.nic.cam
 c.nic.cam
 d.nic.cam
+a.nic.lat
+b.nic.lat
+c.nic.lat
+d.nic.lat
