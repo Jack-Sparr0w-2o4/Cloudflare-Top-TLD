@@ -515,6 +515,7 @@ living
 property
 forum
 audio
+cam
 no-ip.biz
 no-ip.org
 ddns.net
@@ -618,3 +619,7 @@ a.nic.audio
 b.nic.audio
 c.nic.audio
 d.nic.audio
+a.nic.cam
+b.nic.cam
+c.nic.cam
+d.nic.cam
