@@ -544,8 +544,11 @@ by
 pl
 hr
 rs
+ohv
+blog
 business
 coupons
+eus
 no-ip.biz
 no-ip.org
 ddns.net
@@ -669,3 +672,14 @@ v0n2.nic.business
 v0n3.nic.business
 v2n0.nic.business
 v2n1.nic.business
+d.nic.fr
+f.ext.nic.fr
+g.ext.nic.fr
+a.ns.nic.blog
+b.ns.nic.blog
+c.ns.nic.blog
+d.ns.nic.blog
+anycast10.irondns.net
+anycast23.irondns.net
+anycast24.irondns.net
+anycast9.irondns.net
