@@ -560,6 +560,8 @@ business
 coupons
 eus
 auction
+deals
+group
 no-ip.biz
 no-ip.org
 ddns.net
@@ -700,3 +702,15 @@ v0n2.nic.auction
 v0n3.nic.auction
 v2n0.nic.auction
 v2n1.nic.auction
+v0n0.nic.deals
+v0n1.nic.deals
+v0n2.nic.deals
+v0n3.nic.deals
+v2n0.nic.deals
+v2n1.nic.deals
+v0n0.nic.group
+v0n1.nic.group
+v0n2.nic.group
+v0n3.nic.group
+v2n0.nic.group
+v2n1.nic.group
