@@ -549,6 +549,7 @@ blog
 business
 coupons
 eus
+auction
 no-ip.biz
 no-ip.org
 ddns.net
@@ -683,3 +684,9 @@ anycast10.irondns.net
 anycast23.irondns.net
 anycast24.irondns.net
 anycast9.irondns.net
+v0n0.nic.auction
+v0n1.nic.auction
+v0n2.nic.auction
+v0n3.nic.auction
+v2n0.nic.auction
+v2n1.nic.auction
