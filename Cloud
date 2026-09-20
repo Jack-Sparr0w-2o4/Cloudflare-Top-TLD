@@ -814,3 +814,10 @@
 0.0.0.0 b0.nic.vote
 0.0.0.0 c0.nic.vote
 0.0.0.0 town
+0.0.0.0 fitness
+0.0.0.0 v0n0.nic.fitness
+0.0.0.0 v0n1.nic.fitness
+0.0.0.0 v0n2.nic.fitness
+0.0.0.0 v0n3.nic.fitness
+0.0.0.0 v2n0.nic.fitness
+0.0.0.0 v2n1.nic.fitness
