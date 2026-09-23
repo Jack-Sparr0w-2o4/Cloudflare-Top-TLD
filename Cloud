@@ -825,10 +825,10 @@
 0.0.0.0 f.ext.nic.fr
 0.0.0.0 g.ext.nic.fr
 0.0.0.0 paris
-0.0.0.0 university
-0.0.0.0 v0n0.nic.university
-0.0.0.0 v0n1.nic.university
-0.0.0.0 v0n2.nic.university
-0.0.0.0 v0n3.nic.university
-0.0.0.0 v2n0.nic.university
-0.0.0.0 v2n1.nic.university
+0.0.0.0 ink
+0.0.0.0 a.nic.ink
+0.0.0.0 b.nic.ink
+0.0.0.0 c.nic.ink
+0.0.0.0 x.nic.ink
+0.0.0.0 y.nic.ink
+0.0.0.0 z.nic.ink
