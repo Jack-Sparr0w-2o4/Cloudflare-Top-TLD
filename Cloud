@@ -4098,10 +4098,9 @@
 0.0.0.0 v2n0.nic.tires
 0.0.0.0 v2n1.nic.tires
 0.0.0.0 tires
-mibhigh
-zap
-mars
-exit
+0.0.0.0 mibhigh
+0.0.0.0 zap
+0.0.0.0 mars
 0.0.0.0 corp
 0.0.0.0 kornet
 0.0.0.0 braze
