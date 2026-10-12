@@ -4401,51 +4401,57 @@
 0.0.0.0 d.nic.skin
 0.0.0.0 skin
 0.0.0.0 living
-v0n0.nic.ninja
-v0n1.nic.ninja
-v0n2.nic.ninja
-v0n3.nic.ninja
-v2n0.nic.ninja
-v2n1.nic.ninja
-ninja
-fbi
-cia
-navy
-marine
-airforce
-spaceforce
-fed
-federal
-state
-nasa
-nsa
-cisa
-police
-rcmp
-unit
-mi6
-bdn
-kgb
-fsb
-stasi
-signt
-mossad
-spectre
-shield
-control
-spy
-dgse
-csis
-isi
-wales
-gouv
-go
-gub
-gob
-chinhphu
-xx
-cse
-dnd
-dept
-forces
-parl
+0.0.0.0 v0n0.nic.ninja
+0.0.0.0 v0n1.nic.ninja
+0.0.0.0 v0n2.nic.ninja
+0.0.0.0 v0n3.nic.ninja
+0.0.0.0 v2n0.nic.ninja
+0.0.0.0 v2n1.nic.ninja
+0.0.0.0 ninja
+0.0.0.0 fbi
+0.0.0.0 cia
+0.0.0.0 navy
+0.0.0.0 marine
+0.0.0.0 airforce
+0.0.0.0 spaceforce
+0.0.0.0 fed
+0.0.0.0 federal
+0.0.0.0 state
+0.0.0.0 nasa
+0.0.0.0 nsa
+0.0.0.0 cisa
+0.0.0.0 police
+0.0.0.0 rcmp
+0.0.0.0 unit
+0.0.0.0 mi6
+0.0.0.0 bdn
+0.0.0.0 kgb
+0.0.0.0 fsb
+0.0.0.0 stasi
+0.0.0.0 signt
+0.0.0.0 mossad
+0.0.0.0 spectre
+0.0.0.0 shield
+0.0.0.0 control
+0.0.0.0 spy
+0.0.0.0 dgse
+0.0.0.0 csis
+0.0.0.0 isi
+0.0.0.0 wales
+0.0.0.0 gouv
+0.0.0.0 go
+0.0.0.0 gub
+0.0.0.0 gob
+0.0.0.0 chinhphu
+0.0.0.0 xx
+0.0.0.0 cse
+0.0.0.0 dnd
+0.0.0.0 dept
+0.0.0.0 forces
+0.0.0.0 parl
+0.0.0.0 v0n0.nic.navy
+0.0.0.0 v0n1.nic.navy
+0.0.0.0 v0n2.nic.navy
+0.0.0.0 v0n3.nic.navy
+0.0.0.0 v2n0.nic.navy
+0.0.0.0 v2n1.nic.navy
