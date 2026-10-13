@@ -4628,3 +4628,17 @@
 0.0.0.0 nhl
 0.0.0.0 sport
 0.0.0.0 sports
+0.0.0.0 v0n0.nic.hockey
+0.0.0.0 v0n1.nic.hockey
+0.0.0.0 v0n2.nic.hockey
+0.0.0.0 v0n3.nic.hockey
+0.0.0.0 v2n0.nic.hockey
+0.0.0.0 v2n1.nic.hockey
+0.0.0.0 hockey
+0.0.0.0 c.ci-servers.org
+0.0.0.0 dns1.nominetdns.uk
+0.0.0.0 dns2.nominetdns.uk
+0.0.0.0 dns3.nominetdns.uk
+0.0.0.0 dns4.nominetdns.uk
+0.0.0.0 e.ci-servers.net
+0.0.0.0 gg
