@@ -4611,3 +4611,17 @@
 0.0.0.0 v2n0.nic.media
 0.0.0.0 v2n1.nic.media
 0.0.0.0 media
+0.0.0.0 v0n0.nic.international
+0.0.0.0 v0n1.nic.international
+0.0.0.0 v0n2.nic.international
+0.0.0.0 v0n3.nic.international
+0.0.0.0 v2n0.nic.international
+0.0.0.0 v2n1.nic.international
+0.0.0.0 international
+0.0.0.0 v0n0.nic.money
+0.0.0.0 v0n1.nic.money
+0.0.0.0 v0n2.nic.money
+0.0.0.0 v0n3.nic.money
+0.0.0.0 v2n0.nic.money
+0.0.0.0 v2n1.nic.money
+0.0.0.0 money
