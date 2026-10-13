@@ -4642,3 +4642,16 @@
 0.0.0.0 dns4.nominetdns.uk
 0.0.0.0 e.ci-servers.net
 0.0.0.0 gg
+0.0.0.0 v0n0.nic.partners
+0.0.0.0 v0n1.nic.partners
+0.0.0.0 v0n2.nic.partners
+0.0.0.0 v0n3.nic.partners
+0.0.0.0 v2n0.nic.partners
+0.0.0.0 v2n1.nic.partners
+0.0.0.0 partners
+0.0.0.0 tools
+0.0.0.0 a0.nic.llc
+0.0.0.0 a2.nic.llc
+0.0.0.0 b0.nic.llc
+0.0.0.0 c0.nic.llc
+0.0.0.0 llc
