@@ -4695,3 +4695,10 @@
 0.0.0.0 v2n0.nic.schule
 0.0.0.0 v2n1.nic.schule
 0.0.0.0 schule
+0.0.0.0 v0n0.nic.hospital
+0.0.0.0 v0n1.nic.hospital
+0.0.0.0 v0n2.nic.hospital
+0.0.0.0 v0n3.nic.hospital
+0.0.0.0 v2n0.nic.hospital
+0.0.0.0 v2n1.nic.hospital
+0.0.0.0 hospital
