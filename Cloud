@@ -4655,3 +4655,17 @@
 0.0.0.0 b0.nic.llc
 0.0.0.0 c0.nic.llc
 0.0.0.0 llc
+0.0.0.0 v0n0.nic.expert
+0.0.0.0 v0n1.nic.expert
+0.0.0.0 v0n2.nic.expert
+0.0.0.0 v0n3.nic.expert
+0.0.0.0 v2n0.nic.expert
+0.0.0.0 v2n1.nic.expert
+0.0.0.0 expert
+0.0.0.0 v0n0.nic.academy
+0.0.0.0 v0n1.nic.academy
+0.0.0.0 v0n2.nic.academy
+0.0.0.0 v0n3.nic.academy
+0.0.0.0 v2n0.nic.academy
+0.0.0.0 v2n1.nic.academy
+0.0.0.0 academy
