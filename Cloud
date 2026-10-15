@@ -4760,3 +4760,10 @@
 0.0.0.0 d.nic.autos
 0.0.0.0 autos
 0.0.0.0 space
+0.0.0.0 v0n0.nic.travel
+0.0.0.0 v0n1.nic.travel
+0.0.0.0 v0n2.nic.travel
+0.0.0.0 v0n3.nic.travel
+0.0.0.0 v2n0.nic.travel
+0.0.0.0 v2n1.nic.travel
+0.0.0.0 travel
