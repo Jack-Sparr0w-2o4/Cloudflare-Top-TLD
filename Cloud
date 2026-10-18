@@ -4882,3 +4882,8 @@
 0.0.0.0 app
 0.0.0.0 uno
 0.0.0.0 irgc
+0.0.0.0 a.nic.yachts
+0.0.0.0 b.nic.yachts
+0.0.0.0 c.nic.yachts
+0.0.0.0 d.nic.yachts
+0.0.0.0 yachts
