@@ -775,13 +775,6 @@
 0.0.0.0 v0n3.nic.studio
 0.0.0.0 v2n0.nic.studio
 0.0.0.0 v2n1.nic.studio
-0.0.0.0 report
-0.0.0.0 v0n0.nic.report
-0.0.0.0 v0n1.nic.report
-0.0.0.0 v0n2.nic.report
-0.0.0.0 v0n3.nic.report
-0.0.0.0 v2n0.nic.report
-0.0.0.0 v2n1.nic.report
 0.0.0.0 media
 0.0.0.0 v0n0.nic.media
 0.0.0.0 v0n1.nic.media
@@ -956,13 +949,6 @@
 0.0.0.0 ns1.dns.nic.win
 0.0.0.0 ns2.dns.nic.win
 0.0.0.0 ns3.dns.nic.win
-0.0.0.0 info
-0.0.0.0 a0.info.afilias-nst.info
-0.0.0.0 a2.info.afilias-nst.info
-0.0.0.0 b0.info.afilias-nst.org
-0.0.0.0 b2.info.afilias-nst.org
-0.0.0.0 c0.info.afilias-nst.info
-0.0.0.0 d0.info.afilias-nst.org
 0.0.0.0 support
 0.0.0.0 v0n0.nic.support
 0.0.0.0 v0n1.nic.support
@@ -1066,7 +1052,6 @@
 0.0.0.0 v0n3.nic.ai
 0.0.0.0 v2n0.nic.ai
 0.0.0.0 v2n1.nic.ai
-0.0.0.0 host
 0.0.0.0 v0n0.nic.solutions
 0.0.0.0 v0n1.nic.solutions
 0.0.0.0 v0n2.nic.solutions
@@ -2008,13 +1993,6 @@
 0.0.0.0 v2n0.nic.sale
 0.0.0.0 v2n1.nic.sale
 0.0.0.0 sale
-0.0.0.0 v0n0.nic.codes
-0.0.0.0 v0n1.nic.codes
-0.0.0.0 v0n2.nic.codes
-0.0.0.0 v0n3.nic.codes
-0.0.0.0 v2n0.nic.codes
-0.0.0.0 v2n1.nic.codes
-0.0.0.0 codes
 0.0.0.0 dns1.nic.now
 0.0.0.0 dns2.nic.now
 0.0.0.0 dns3.nic.now
@@ -2826,13 +2804,6 @@
 0.0.0.0 d.nic.guitars
 0.0.0.0 guitars
 0.0.0.0 canon
-0.0.0.0 v0n0.nic.limited
-0.0.0.0 v0n1.nic.limited
-0.0.0.0 v0n2.nic.limited
-0.0.0.0 v0n3.nic.limited
-0.0.0.0 v2n0.nic.limited
-0.0.0.0 v2n1.nic.limited
-0.0.0.0 limited
 0.0.0.0 dns1.nic.you
 0.0.0.0 dns2.nic.you
 0.0.0.0 dns3.nic.you
@@ -4044,7 +4015,6 @@
 0.0.0.0 cnopenapi
 0.0.0.0 sunlife
 0.0.0.0 frhttp
-0.0.0.0 mac
 0.0.0.0 elasticsearch
 0.0.0.0 xxxxxxxxxx
 0.0.0.0 hotspot
@@ -4056,7 +4026,6 @@
 0.0.0.0 rabbitmq
 0.0.0.0 abcd
 0.0.0.0 abc
-0.0.0.0 blackhole
 0.0.0.0 brasil
 0.0.0.0 airport
 0.0.0.0 famil
@@ -4075,7 +4044,6 @@
 0.0.0.0 prometheus
 0.0.0.0 mosquitto
 0.0.0.0 jaeger
-0.0.0.0 infohttp
 0.0.0.0 hole
 0.0.0.0 figmaxcom
 0.0.0.0 labs
@@ -4131,7 +4099,6 @@
 0.0.0.0 mobishowdefault
 0.0.0.0 natura
 0.0.0.0 loreal
-0.0.0.0 adds
 0.0.0.0 macbookpro
 0.0.0.0 fgsdgsdfgfdsgdsgdsg
 0.0.0.0 amfam
@@ -4341,7 +4308,6 @@
 0.0.0.0 ns2.dns.nic.bid
 0.0.0.0 ns3.dns.nic.bid
 0.0.0.0 love
-0.0.0.0 host
 0.0.0.0 lease
 0.0.0.0 v0n0.nic.lease
 0.0.0.0 v0n1.nic.lease
@@ -4426,7 +4392,6 @@
 0.0.0.0 gub
 0.0.0.0 gob
 0.0.0.0 chinhphu
-0.0.0.0 xx
 0.0.0.0 cse
 0.0.0.0 dnd
 0.0.0.0 dept
@@ -4548,7 +4513,6 @@
 0.0.0.0 svr
 0.0.0.0 gru
 0.0.0.0 pla
-0.0.0.0 ccs
 0.0.0.0 mts
 0.0.0.0 v0n0.nic.tips
 0.0.0.0 v0n1.nic.tips
