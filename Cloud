@@ -974,11 +974,6 @@
 0.0.0.0 v0n3.nic.delivery
 0.0.0.0 v2n0.nic.delivery
 0.0.0.0 v2n1.nic.delivery
-0.0.0.0 help
-0.0.0.0 a.nic.help
-0.0.0.0 b.nic.help
-0.0.0.0 c.nic.help
-0.0.0.0 d.nic.help
 0.0.0.0 live
 0.0.0.0 v0n0.nic.live
 0.0.0.0 v0n1.nic.live
